@@ -23,7 +23,7 @@ while True:
     time.sleep(0.5)  # Wait for 500ms
     led.value(1)  # Toggle LED state
     time.sleep(0.5)  # Wait for 500ms
-    led.value(1)  # Toggle LED state
+    led.value(0)  # Toggle LED state
     time.sleep(0.5)  # Wait for 500ms
     led.value(1)  # Toggle LED state
     time.sleep(0.5)  # Wait for 500ms
