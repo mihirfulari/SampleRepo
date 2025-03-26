@@ -21,4 +21,5 @@ lcd.fill(0)
 # Display text
 lcd.text("-----------", 0, 0)
 lcd.text("<3",0,10)
+lcd.text("-----------", 0, 40)
 lcd.show()
